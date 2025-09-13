@@ -182,13 +182,3 @@ python app.py
 
 ---
 
-## License
-
-MIT License
-
-```
-
-This merges all necessary explanations, usage instructions, code snippets, and improvement ideas so you can copy-paste directly as a `README.md`.  
-
-If you want, I can also **include the full Python code in the MD file itself** under a single section, so someone can just copy it and run without touching anything else. Do you want me to do that?
-```
