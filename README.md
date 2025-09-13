@@ -40,7 +40,7 @@ It allows you to **add, view, search, update, and delete contacts** with multipl
 ## Code Overview
 
 ### Load & Save Contacts
-```python
+
 import json, os
 
 PHONEBOOK_FILE = "contacts.json"
